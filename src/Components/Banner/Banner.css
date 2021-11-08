@@ -1,0 +1,7 @@
+.banner {
+  background-image: url("../../images/9.jpg");
+  background-position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: hard-light;
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Child Psychotherapy",
+    "doctor": "Md Mahbubur Rahman",
+    "fees": 50,
+    "duration": 1,
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/766/sad-child2-1492393681.jpg",
+    "details": "Child psychotherapy helps children and young people to make sense of sad, angry, painful or confusing feelings and thoughts.Child psychotherapists are trained to help children understand feelings that are not possible to speak out loud. They do this through play, drawing and talking about events and experiences."
+  },
+  {
+    "id": 2,
+    "name": "Family Therapy",
+    "doctor": "Md Mahbubur Rahman",
+    "fees": 150,
+    "duration": 2,
+    "image": "https://st.depositphotos.com/1006318/i/600/depositphotos_43555033-stock-photo-unhappy-family-lying-in-bed.jpg",
+    "details": "Family therapy, also referred to as couple and family therapy, marriage and family therapy, family systems therapy, and family counseling, is a branch of psychology that works with families and couples in intimate relationships to nurture change and development. Family therapy is usually provided by a psychologist, clinical social worker or licensed therapist."
+  },
+  {
+    "id": 40,
+    "name": "Couple Psychotherapy",
+    "doctor": "Amalia Elsa",
+    "fees": 450,
+    "duration": 1,
+    "image": "https://image.freepik.com/free-photo/african-american-man-white-woman-couple-having-discussion_163305-4542.jpg",
+    "details": "Couples therapy is a form of psychotherapy that can help you and your partner improve your relationship. If you are having relationship difficulties, you can seek couples therapy to help rebuild your relationship.Couples therapy can address a wide range of relationship issues, including recurring conflicts, feelings of disconnection, an affair, issues related to sex, or difficulties due to external stressors"
+  },
+  {
+    "id": 4,
+    "name": "Existential Psychotherapy",
+    "doctor": "William Lucas",
+    "fees": 100,
+    "duration": 1,
+    "image": "https://www.augustafamily.com/wp-content/uploads/2017/11/sad-drdad-1280x640.png",
+    "details": "Existential psychotherapy is a style of therapy that places emphasis on the human condition as a whole. Existential psychotherapy uses a positive approach that applauds human capacities and aspirations while simultaneously acknowledging human limitations.It focuses on concepts that are universally applicable to human existence including death, freedom, responsibility, and the meaning of life."
+  },
+  {
+    "id": 5,
+    "name": "Cognitive behavioural therapy",
+    "doctor": "Emma Sophia",
+    "fees": 75,
+    "duration": 1,
+    "image": "https://st2.depositphotos.com/4612235/10981/i/950/depositphotos_109812816-stock-photo-thinking-sad-woman.jpg",
+    "details": "Cognitive behavioural therapy (CBT) is a talking therapy that can help you manage your problems by changing the way you think and behave.It's most commonly used to treat anxiety and depression, but can be useful for other mental and physical health problems.CBT is based on the concept that your thoughts, feelings, physical sensations and actions are interconnected, and that negative thoughts and feelings can trap you in a vicious cycle."
+  },
+  {
+    "id": 6,
+    "name": "Personality disorders Counselling",
+    "doctor": "K C Ganguly",
+    "fees": 50,
+    "duration": 1,
+    "image": "https://www.therecoveryvillage.com/wp-content/uploads/2020/06/PERSONALITY-DISORDER-1.jpg",
+    "details": "Personality disorders are a group of mental illnesses. They involve long-term patterns of thoughts and behaviors that are unhealthy and inflexible. The behaviors cause serious problems with relationships and work. People with personality disorders have trouble dealing with everyday stresses and problems"
+  },
+  {
+    "id": 7,
+    "name": "Child Psychotherapy",
+    "doctor": "Himari Yuna Yua",
+    "fees": 40,
+    "duration": 1,
+    "image": "https://wallpapercave.com/wp/wp7970783.jpg",
+    "details": "Child psychotherapy helps children and young people to make sense of sad, angry, painful or confusing feelings and thoughts.Child psychotherapists are trained to help children understand feelings that are not possible to speak out loud. They do this through play, drawing and talking about events and experiences."
+  },
+  {
+    "id": 8,
+    "name": "Addiction Counselling",
+    "doctor": "Emma Sophia",
+    "fees": 90,
+    "duration": 2,
+    "image": "https://image.shutterstock.com/image-photo/woman-hands-tied-metallic-chain-260nw-764692717.jpg",
+    "details": "Addiction Counselling can take place in different forms, most often in one-on-one fashion but is also available in a couple, family and group format. In whatever modality is taken, it provides the client with a confidential opportunity to discuss their relationship with the problem substance or behaviour and its impact on their life and the life of others they care about."
+  },
+  {
+    "id": 9,
+    "name": "forensic psychiatry",
+    "doctor": "Venketash Iyer",
+    "fees": 100,
+    "duration": 2,
+    "image": "https://st2.depositphotos.com/1899335/i/600/depositphotos_109930222-stock-photo-sad-man-thinking-depression-dream.jpg",
+    "details": "Forensic psychiatry is a branch of psychiatry dealing with the assessment and treatment of offenders in prisons, secure hospitals and the community with mental health problems. It requires a sophisticated understanding of the links between mental health and the law.Forensic psychiatrists must balance the needs of each person assessed and/or treated with the risks of harm to others, including the person’s own family and associates, criminal justice or health service staff or the wider public"
+  }
+]

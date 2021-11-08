@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Md Mahbubur Rahman",
+    "education": "MBBS, FCPS, Clinical Psychologist, Neuropsychologist",
+    "image": "https://image.freepik.com/free-photo/doctor-standing-with-folder-stethoscope_1291-16.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Amalia Elsa",
+    "education": "MBBS, Psychiatric Technician",
+    "image": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Venketash Iyer",
+    "education": "MBBS, MD, Mental Health Psychiatrist",
+    "image": "https://image.freepik.com/free-photo/doctor-with-co-workers-analyzing-x-ray_1098-581.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emma Sophia",
+    "education": "MBBS, Psychologist, Psychiatric",
+    "image": "https://image.freepik.com/free-photo/portrait-doctor_144627-39390.jpg"
+  },
+  {
+    "id": 5,
+    "name": "William Lucas",
+    "education": "MBBS, Addiction Counselor",
+    "image": "https://image.freepik.com/free-photo/african-american-medical-doctor-man-with-mask-isolated-gray-background_231208-2230.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Himari Yuna Yua",
+    "education": "MBBS, Clinical Psychologist",
+    "image": "https://image.freepik.com/free-photo/black-woman-with-stethoscope_1157-15563.jpg"
+  }
+]
