@@ -9,7 +9,6 @@ Mindly. is an service provider website where you can find worldclass professiona
 ## Features
 
 - responsive layout
-- user reagistration
-- user login
-- worldclsass doctors
-- affordable price
+- user authentication using firebase
+- Private route for service details
+- Private route for doctors list
